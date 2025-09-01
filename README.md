@@ -6,7 +6,9 @@
 ### 📅 9월 상세 계획 (September Detailed Plan)
 
 | 주차 | 날짜 | 주요 할 일 | 체크 |
+
 | 1주차 | 9/1 (월) | 9월 한 달간 계획 수립, 졸업작품 준비 | [ ] |
+
 | | 9/2 (화) | AWS Technical Essentials 4시간 과정 (1시간 수강), 졸업작품 | [ ] |
 | | 9/3 (수) | AWS Technical Essentials 4시간 과정 (1시간 수강), 졸업작품 | [ ] |
 | | 9/4 (목) | AWS Technical Essentials 4시간 과정 (2시간 수강), 천안 출발 | [ ] |
