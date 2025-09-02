@@ -9,7 +9,7 @@
 
 | 1주차 | 9/1 (월) | 9월 한 달간 계획 수립, 졸업작품 준비 | [V] |
 
-| | 9/2 (화) | AWS Technical Essentials 4시간 과정 (1시간 수강), 졸업작품 | [ ] |
+| | 9/2 (화) | AWS Technical Essentials 4시간 과정 (1시간 수강), 졸업작품 | [V] |
 
 | | 9/3 (수) | AWS Technical Essentials 4시간 과정 (1시간 수강), 졸업작품 | [ ] |
 
