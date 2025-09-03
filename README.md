@@ -11,7 +11,7 @@
 
 | | 9/2 (화) | AWS Technical Essentials 4시간 과정 (1시간 수강), 졸업작품 | [V] |
 
-| | 9/3 (수) | AWS Technical Essentials 4시간 과정 (1시간 수강), 졸업작품 | [V] |
+| | 9/3 (수) | AWS Technical Essentials 4시간 과정 (1시간 수강), 졸업작품, 졸작 발표자료 제작 | [V] |
 
 | | 9/4 (목) | AWS Technical Essentials 4시간 과정 (2시간 수강), 천안 출발 | [ ] |
 
