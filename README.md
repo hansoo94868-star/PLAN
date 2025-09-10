@@ -23,11 +23,11 @@
 
 
 -
-| 2주차 | 9/8 (월) | AWS Cloud Practitioner Essentials 7시간 과정(2시간 수강), 졸업작품 | [ ] |
+| 2주차 | 9/8 (월) | AWS Cloud Practitioner Essentials 7시간 과정(2시간 수강), 졸업작품 | [V] |
 
-| | 9/9 (화) | AWS Cloud Practitioner Essentials 7시간 과정(2시간 수강), 졸업작품  | [ ] |
+| | 9/9 (화) | AWS Cloud Practitioner Essentials 7시간 과정(2시간 수강), 졸업작품  | [V] |
 
-| | 9/10 (수) | AWS Cloud Practitioner Essentials 7시간 과정(2시간 수강), 졸업작품 | [ ] |
+| | 9/10 (수) | AWS Cloud Practitioner Essentials 7시간 과정(2시간 수강), 졸업작품 | [V] |
 
 | | 9/11 (목) | AWS Cloud Practitioner Essentials 7시간 과정(1시간 수강), 졸업작품 | [ ] |
 
